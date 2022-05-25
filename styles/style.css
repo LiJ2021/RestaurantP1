@@ -1,0 +1,24 @@
+/* testing code */
+
+
+body {
+    background-color: teal;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1,h2,h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
+h6{
+    text-align: center;
+    font-style: italic;
+}
